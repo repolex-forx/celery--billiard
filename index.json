@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "billiard",
+  "versions": [
+    {
+      "commit": "40a82b1533e3e170cc24a5aec91c2c56a8e2c415",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:06:33.139404+00:00"
+    }
+  ]
+}
