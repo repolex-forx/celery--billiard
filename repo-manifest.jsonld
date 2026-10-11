@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/billiard/commit/40a82b1533e3e170cc24a5aec91c2c56a8e2c415",
       "git:hexsha": "40a82b1533e3e170cc24a5aec91c2c56a8e2c415",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/celery/billiard/commit/872c95f61562ec5b8afdfa262b478d3b05ca8648",
